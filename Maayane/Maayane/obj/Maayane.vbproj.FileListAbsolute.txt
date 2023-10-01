@@ -1,0 +1,28 @@
+C:\Users\Herman\Desktop\Maayane\Maayane\bin\Debug\Maayane.exe
+C:\Users\Herman\Desktop\Maayane\Maayane\bin\Debug\Maayane.pdb
+C:\Users\Herman\Desktop\Maayane\Maayane\bin\Debug\Maayane.xml
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\Maayane.About.resources
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\Maayane.MCOMMANDE.resources
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\Maayane.Frm_FichierConfiguration.resources
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\Maayane.FrmDemarrage.resources
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\Maayane.MenuPrincipal.resources
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\Maayane.Resources.resources
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\Maayane.vbproj.GenerateResource.Cache
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\Maayane.exe
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\Maayane.xml
+C:\Users\Herman\Desktop\Maayane\Maayane\obj\Debug\Maayane.pdb
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\Maayane.exe
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\Maayane.xml
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\Maayane.pdb
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\bin\Debug\Maayane.exe
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\bin\Debug\Maayane.pdb
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\bin\Debug\Maayane.xml
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\Maayane.About.resources
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\Maayane.MCOMMANDE.resources
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\Maayane.Frm_FichierConfiguration.resources
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\Maayane.FrmDemarrage.resources
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\Maayane.MenuPrincipal.resources
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\Maayane.Resources.resources
+C:\Users\Herman\Desktop\Ergonomie Console Waza\CPL WAZA\Maayane\Maayane\obj\Debug\Maayane.vbproj.GenerateResource.Cache
